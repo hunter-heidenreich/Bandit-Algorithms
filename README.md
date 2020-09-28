@@ -16,3 +16,6 @@ to get their hands on some of these algorithms and try them out!
 
 If you have any questions or concerns, feel free to reach out to me,
 Hunter Heidenreich, at hsh28 [ at ] drexel.edu
+
+## Outline 
+- Chapter 1: Introduction - [link](chapters/01/0-intro.ipynb)

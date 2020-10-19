@@ -13,5 +13,5 @@ Hunter Heidenreich, at hsh28 [ at ] drexel.edu
 
 ## Outline 
 - Chapter 1: Introduction - [Jupyter Notebook](chapters/01/0-intro.ipynb)
-- Chapter 4: Stochastic Bandits - [link](chapters/04/0-stochastics.ipynb)
-- Chapter 6: The Explore-Then-Commit (ETC) Algorithm - [link](chapters/06/0-ETC.ipynb)
+- Chapter 4: Stochastic Bandits - [Jupyter Notebook](chapters/04/0-stochastics.ipynb)
+- Chapter 6: The Explore-Then-Commit (ETC) Algorithm - [Jupyter Notebook](chapters/06/0-ETC.ipynb)
